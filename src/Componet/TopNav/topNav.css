@@ -1,0 +1,11 @@
+.navStyle{
+    position:relative;
+}
+
+Nav Nav.Link{
+    color: white;
+}
+
+.navClass{
+    margin: 50px;
+}

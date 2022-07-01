@@ -1,0 +1,18 @@
+[{
+    "id":1,"img":"https://i.postimg.cc/3JZdDF3j/Body-Solid-Jammer.jpg","productName":"Body-Solid-Jammer","price":"10,000 Tk","details":"id mauris vulputate elementum nullam varius nulla facilisi cras non velit nec nisi vulputate nonummy maecenas tincidunt"
+},
+{
+    "id":2,"img":"https://i.postimg.cc/FFp4yWJK/Breaking-Muscle.jpg","productName":"Breaking-Muscle","price":"1500 Tk","details":"justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum"
+},
+{"id":3,"img":"https://i.postimg.cc/4dGDtVft/Fitness-Power-Rack-Holder-Bench-New.jpg","productName":"Power-Rack-Holder","price":"6000 Tk","details":"feugiat et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare imperdiet sapien"},
+{"id":4,"img":"https://i.postimg.cc/Wbyx8Qps/handDum.jpg","productName":"Dumble","price":"15593 Tk","details":"ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio"},
+{"id":5,"img":"https://i.postimg.cc/SR3VLb65/lat-Adjustable-Benches.jpg","productName":"Adjustable-Benches","price":"7599 Tk","details":"ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat"},
+{"id":6,"img":"https://i.postimg.cc/NG3zrRd0/legDum.jpg","productName":"Leg Dumble","price":"17,000 Tk","details":"nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque"},
+{"id":7,"img":"https://i.postimg.cc/4xNbKdRd/maxDum.jpg","productName":"Heavy Dumble","price":"23,0000 Tk","details":"tortor id nulla ultrices aliquet maecenas leo odio condimentum id luctus nec molestie"},
+{"id":8,"img":"https://i.postimg.cc/zGCZfx55/Power-Line-Cable.jpg","productName":"Power-Line-Cable","price":"6500 Tk","details":"magnis dis parturient montes nascetur ridiculus mus etiam vel augue"},
+{"id":9,"img":"https://i.postimg.cc/GtWVLy5H/Routing-Handle.jpg","productName":"Routing-Handle","price":"4000 Tk","details":"mauris laoreet ut rhoncus aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis"},
+{"id":10,"img":"https://i.postimg.cc/2S8MzrHd/Stealth-Leg-Press-Sled.jpg","productName":"Stealth-Leg-Press-Sled","price":"10,000 Tk","details":"sapien non mi integer ac neque duis bibendum morbi non quam"},
+{"id":11,"img":"https://i.postimg.cc/qBDCmGPk/walking.jpg","productName":"Treadmill","price":"35,000 Tk","details":"luctus cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum"},
+{"id":12,"img":"https://i.postimg.cc/QMRj9HwZ/wing-Attachtment.jpg","productName":"Wing-Attachtment","price":"27,000 Tk","details":"et ultrices posuere cubilia curae mauris viverra diam vitae quam"}
+
+]
